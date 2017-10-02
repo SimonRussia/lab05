@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/SimonRussia/Task1.svg?branch=master)](https://travis-ci.org/SimonRussia/Task1)
+[![Build Status](https://travis-ci.org/SimonRussia/lab05.svg?branch=master)](https://travis-ci.org/SimonRussia/lab05)
 ## Laboratory work V
 
 Данная лабораторная работа посвещена изучению систем непрерывной интеграции на примере сервиса **Travis CI**
